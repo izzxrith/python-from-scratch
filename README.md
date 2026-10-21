@@ -1,8 +1,8 @@
 # python-from-scratch
 
-I use AI a lot, but I realised I could not write code from a blank file by myself. So I am relearning programming from zero, typing every line by hand.
+I use AI a lot but I realised I could not write code from a blank file by myself. So I am relearning programming from zero, typing every line by hand.
 
-This repo is my daily proof of that. Every lesson, exercise and project here was typed by me, with tests, and committed as I went.
+This repo is my daily proof of that. Every lesson, exercise and project here was typed by me with tests and committed as I went.
 
 ## The rules
 
@@ -11,6 +11,7 @@ This repo is my daily proof of that. Every lesson, exercise and project here was
 3. Get stuck for at least 20 minutes before asking for a hint.
 4. Write a test for what I build and run it before every commit.
 5. Commit every day and write two lines in `LOG.md`.
+6. If i feels like i want to do more, i will put more effort each day.
 
 ## Setup
 
