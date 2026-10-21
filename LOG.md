@@ -5,3 +5,7 @@ lesson 01 - variables
     - Text is called string and needs quote - whole numbers = integers while number with dot (3.5, 4.23 etc) are floats.
     - True and False = booleans, a yes or no answer
     - print makes the robot say something out loud or just print the output needed and line starting with # or """ """ is a comment. Robot ignore but its a note for a humans (us).
+
+lesson 02 - maths 
+    - maths is a calculator which means i just learn on the operator like +, -, *, / and etc
+    - for this lesson i guess every operator needed to be jot down for me as i intended to learn on how to do leetcode for my improvement.
