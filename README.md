@@ -1,6 +1,6 @@
 # python-from-scratch
 
-I use AI a lot but I realised I could not write code from a blank file by myself. So I am relearning programming from zero, typing every line by hand.
+I use AI a lot but I realised I need to learn on how write code from a blank file by myself. So I am relearning programming from zero, typing every line by hand.
 
 This repo is my daily proof of that. Every lesson, exercise and project here was typed by me with tests and committed as I went.
 
