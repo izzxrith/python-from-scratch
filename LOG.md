@@ -14,3 +14,9 @@ lesson 03 - strings
     - As for this, i learn on how to calc length(len), upper, lower, word[x] or use [x:y] the count not included y, split and replace.
     - I use f-string too which means anything inside {} is replaced by its value. I will use this everywhere
     - P/S : counting always starts at 0 and not 1. 
+
+lesson 04 - if is a fork in the road
+    - so for this lesson robot ask yes or no question. yes goes one way and no goes the other. only true branch runs
+    - compare is == (equal), != (not equal), > , <, >=, <=
+    - join question with and, or, not.
+    - the colon (:) and the 4 space indent matter. indent means this line belongs inside the if.
