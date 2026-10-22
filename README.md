@@ -46,7 +46,7 @@ LOG.md                daily diary: what I built, what confused me
 
 - [x] Lesson 1: variables
 - [x] Lesson 2: maths
-- [ ] Lesson 3: strings
+- [x] Lesson 3: strings
 - [ ] Lesson 4: if
 - [ ] Lesson 5: loops and FizzBuzz
 - [ ] Lesson 6: functions and tests
