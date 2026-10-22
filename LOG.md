@@ -9,3 +9,8 @@ lesson 01 - variables
 lesson 02 - maths 
     - maths is a calculator which means i just learn on the operator like +, -, *, / and etc
     - for this lesson i guess every operator needed to be jot down for me as i intended to learn on how to do leetcode for my improvement.
+
+lesson 03 - strings
+    - As for this, i learn on how to calc length(len), upper, lower, word[x] or use [x:y] the count not included y, split and replace.
+    - I use f-string too which means anything inside {} is replaced by its value. I will use this everywhere
+    - P/S : counting always starts at 0 and not 1. 
