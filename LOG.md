@@ -20,3 +20,8 @@ lesson 04 - if is a fork in the road
     - compare is == (equal), != (not equal), > , <, >=, <=
     - join question with and, or, not.
     - the colon (:) and the 4 space indent matter. indent means this line belongs inside the if.
+
+lesson 05 - loops mean do it again
+    - for repeats a know number of times
+    - while repeats until the question turns to no. If it never turns to no then the loop runs forever and needed to stop with Ctrl + C
+    - range (5) gives 0,1,2,3,4. It stops before 5.
