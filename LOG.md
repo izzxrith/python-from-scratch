@@ -25,3 +25,6 @@ lesson 05 - loops mean do it again
     - for repeats a know number of times
     - while repeats until the question turns to no. If it never turns to no then the loop runs forever and needed to stop with Ctrl + C
     - range (5) gives 0,1,2,3,4. It stops before 5.
+
+fizzbuz.py 
+    - i need to check 15 first because number divisible by 15 is divisible by both 3 and 5. If i checked 3 first i would never reach FizzBuzz
