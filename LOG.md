@@ -1,4 +1,4 @@
-01 - basic
+01 - Basic
 
 lesson 01 - variables
     - For this one i just imagine that variable is a box with a label. For instance, the box name holds the text 'Ayet'.
@@ -39,3 +39,11 @@ lesson 06 - functions is a recipe with a name
         - Run pytest from the repo root. 
         - Green means your code works and red tells you exactly what broke.
         - a test is a robot that chekcs your robot.
+
+02 - Data Structure
+
+lesson 07 - lists are a train of boxes
+    - this is where things get more complicated
+    - a list keeps things in order
+    - enumerate gives you the position and the value at once.
+    - the list comprehension is a short way to say : make a new list from the number that pass my test.
