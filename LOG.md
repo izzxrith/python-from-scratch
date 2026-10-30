@@ -47,3 +47,8 @@ lesson 07 - lists are a train of boxes
     - a list keeps things in order
     - enumerate gives you the position and the value at once.
     - the list comprehension is a short way to say : make a new list from the number that pass my test.
+
+lesson 08 - dictionaries are a phone book
+    - you looks things up by name, not position
+    - the big secret : checking 'a' in counts is instant even with a million entries
+    - a list would have to walk through every box. this is why dictionaries power most fast LeetCode answers.
